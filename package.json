@@ -1,10 +1,9 @@
-```json
 {
-  "name": "nothing-portfolio",
+  "name": "online-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/nothing-portfolio",
+  "homepage": "https://Clarkent69.github.io/WEBPROG-MIDTERM-PROJECT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
